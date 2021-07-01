@@ -1,0 +1,6 @@
+pytz
+selenium
+pyautogui
+browsermobproxy
+logging
+xlsxwriter
